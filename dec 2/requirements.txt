@@ -1,0 +1,14 @@
+torch
+torchaudio
+torchcodec
+numpy
+
+librosa
+soundfile
+Cython
+
+tqdm
+matplotlib
+scipy
+
+tensorboard
